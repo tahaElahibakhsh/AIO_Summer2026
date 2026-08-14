@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src=\src\IrOAI.png">
+  <img src=\src\IrOAI.png>
 </p>
 
 Materials from the **Iran AI Olympiad Summer Camp 2026**.
