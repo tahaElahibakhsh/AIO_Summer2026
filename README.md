@@ -1,14 +1,17 @@
 # AIO_Summer2026
 
-
 <p align="center">
-  <img src=\src\IrOAI.png>
+  <img src="src/IrOAI.png">
 </p>
 
 Materials from the **Iran AI Olympiad Summer Camp 2026**.
 
-- Projects
-- Datasets
-- Jupyter Notebooks
-- Exercises
-- Notes
+* Projects
+* Datasets
+* Jupyter Notebooks
+* Exercises
+* Notes
+
+### 🎥 Aparat Video Channel — Iran AI Olympiad Summer Camp 2026
+
+https://www.aparat.com/AIO_Summer2026/videos
